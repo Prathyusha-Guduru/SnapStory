@@ -1,4 +1,4 @@
-#Importing all the necessary libraries 
+#Importing all the necessary libraries: 
 import cv2
 import numpy as np
 import dlib
